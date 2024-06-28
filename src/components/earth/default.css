@@ -1,0 +1,9 @@
+.draw-rect{
+    position: absolute;
+    margin-left: 186px;
+    z-index: 1;
+}
+.lonlat{
+    display: flex;
+    color: white;
+}
